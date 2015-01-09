@@ -1,0 +1,2 @@
+# diamond
+repository for learning
